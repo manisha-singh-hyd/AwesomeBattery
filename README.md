@@ -1,6 +1,6 @@
 # AwesomeBattery
 
-A macOS menu bar application that provides visual battery alerts through screen borders.
+AwesomeBattery is a macOS menu bar application that provides visual battery alerts through screen borders. It comes out of my personal use case as I always forget to charge my macbook. This app will almost always force you to charge your laptop when it gets below the desired threshold values.
 
 ## Features
 
@@ -60,11 +60,9 @@ The app requires:
 - Permission to run in the background
 - Screen recording permission (to draw borders around screens)
 
-## Building from Source
+## Support ❤️
 
-1. Clone the repository
-2. Open in Xcode
-3. Build and run
+[paypal.me/manishasinghhyd](https://paypal.me/manishasinghhyd)
 
 ## License
 
