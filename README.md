@@ -12,7 +12,7 @@ AwesomeBattery is a macOS menu bar application that provides visual battery aler
 - "Charge Now" warning text for extremely low battery
 
 ## Menu Bar Interface
-![Battery menu interface](docs/images/Battery Menu.png)
+![Battery menu interface](docs/images/battery_menu.png)
 The menu bar shows your current battery percentage and provides quick access to settings. When charging, it displays a charging indicator alongside the percentage.
 
 ### Settings Available in Menu
@@ -26,12 +26,12 @@ The menu bar shows your current battery percentage and provides quick access to 
 The app monitors your MacBook's battery level and provides visual feedback through colored borders around your screen(s):
 
 ### Normal State (Above 20% by default)
-![Default state with no border](docs/images/Default.png)
+![Default state with no border](docs/images/default.png)
 - No border shown
 - Battery percentage visible in menu bar
 
 ### Alert State (11%-20% by default)
-![Alert state with red border](docs/images/Alert Level.png)
+![Alert state with red border](docs/images/alert_level.png)
 - Shows a red border around all screens
 - Border width gradually increases as battery level drops
 - Maximum border width is 1.6% of the smallest screen dimension
