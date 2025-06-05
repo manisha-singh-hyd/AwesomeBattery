@@ -26,7 +26,7 @@ The menu bar shows your current battery percentage and provides quick access to 
 The app monitors your MacBook's battery level and provides visual feedback through colored borders around your screen(s):
 
 ### Normal State (Above 20% by default)
-![Default state with no border](docs/images/default.png)
+![Default state with no border](docs/images/normal_state.png)
 - No border shown
 - Battery percentage visible in menu bar
 
