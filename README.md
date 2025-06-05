@@ -40,6 +40,7 @@ The app monitors your MacBook's battery level and provides visual feedback throu
 - Border starts flashing to grab attention (animation not shown in screenshots)
 - Uses maximum border width (1.6% of smallest screen dimension)
 - Shows "CHARGE NOW" warning text when battery drops below half of critical threshold (5%)
+![Critical state with CHARGE NOW text](docs/images/half_of_critical.png)
 
 ### Charging State
 - All alerts are cleared
